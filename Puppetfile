@@ -44,7 +44,7 @@ github "hub",         "1.3.0"
 github "inifile",     "1.0.3", :repo => "puppetlabs/puppetlabs-inifile"
 github "module-data", "0.0.3", :repo => "ripienaar/puppet-module-data"
 github "nginx",       "1.4.3"
-github "nodejs",      "3.6.0"
+github "nodejs",      "3.7.0"
 github "openssl",     "1.0.0"
 github "phantomjs",   "2.1.0"
 github "pkgconfig",   "1.0.0"
@@ -53,6 +53,23 @@ github "ruby",        "7.2.4"
 github "stdlib",      "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",        "1.0.0"
 github "xquartz",     "1.1.1"
+github "iterm2",     "1.0.3"
+github "vagrant",    "2.0.11"
+github "virtualbox", "1.0.5"
+github "zsh",        "1.0.0"
+github "macvim",     "1.0.0"
+github "postgresapp", "1.0.0"
+github "heroku",     "2.0.0"
+
+# github "pow",        "1.0.0"
+# github "phantomjs",  "2.0.2"
+
+mod "ohmyzsh", "1.0.0", :github_tarball => "samjsharpe/puppet-ohmyzsh"
+mod "maximum_awesome", :git => "git://github.com/rickard-von-essen/puppet-maximum-awesome"
+
+# mod "property_list_key", "0.1.0", :github_tarball => "glarizza/puppet-property_list_key"
+# mod "dockutil", "0.1.2", :github_tarball => "grahamgilbert/puppet-dockutil"
+# mod "maximumawesome", "0.2.2", :github_tarball => "rickard-von-essen/puppet-maximum-awesome"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

@@ -68,8 +68,6 @@ node default {
   # include nodejs::v0_8
   # include nodejs::v0_10
 
-
-
   # default ruby versions
   ruby::version { '1.9.3': }
   ruby::version { '2.0.0': }
