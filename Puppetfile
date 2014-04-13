@@ -60,8 +60,8 @@ github "zsh",        "1.0.0"
 github "macvim",     "1.0.0"
 github "postgresapp", "1.0.0"
 github "heroku",     "2.0.0"
+github "pow",        "1.0.0"
 
-# github "pow",        "1.0.0"
 # github "phantomjs",  "2.0.2"
 
 mod "ohmyzsh", "1.0.0", :github_tarball => "samjsharpe/puppet-ohmyzsh"
